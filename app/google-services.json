@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481823764436",
+    "project_id": "peliculas-a6a3c",
+    "storage_bucket": "peliculas-a6a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481823764436:android:cdd475d96e1e7610c0b041",
+        "android_client_info": {
+          "package_name": "com.example.retofirebasepeliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481823764436-6db2afrgl4hototk5lmhgkjtr1dabhtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWevbDzH4e8ZzTeDaHDO7JMlSuilK6zWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481823764436-6db2afrgl4hototk5lmhgkjtr1dabhtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
